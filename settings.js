@@ -14,23 +14,23 @@ global.APIKeys = {
 // setting 
 global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autoketik = true //status auto mengetik (auto typing)
+global.available = true //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.botname = "Alvarobot-Md"
+global.ownername= "Alvaro"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.youtube = "ga ada"
+global.github = "https://github.com/aowjqoidjidw/"
+global.ownernomer = "6285159088173"
+global.ownernomerr = "+6285159088171"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["6285159088173","6285159088173","6288294050429"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Alvaro kebelet satir' //sticker wm
+global.author = 'Di Buat Oleh Alvaro' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
